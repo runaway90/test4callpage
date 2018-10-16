@@ -1,5 +1,5 @@
 <main role="main" class=" pt-5 inner cover">
-                    <h1 class="cover-heading">Test application for CallPage</h1>
+                    <h1 class="cover-heading">Test application for CallPage (with Laravel fw)</h1>
                     <p class="lead text-info">Application with REST API where You can create TEAM, EMPLOYER and WORKING_LIST(add new work hours for employer). Also You can send request(with team, date and super_number) and take response with information about working hours in ONLY working days for ALL EMPLOYERS OF TEAM, how long as super_number sended.
                     </p>
                     <p class="lead">Stages for local use:
