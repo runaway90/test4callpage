@@ -43,4 +43,5 @@
                 # Send request with 'id_team'(int), 'date'(date) and 'super_number'(int). Take rersponse with information about working hours in ONLY working days for ALL EMPLOYERS OF TEAM <img src="/resources/photo/work_list1.png" alt="Test">
                 # Test response with ONLY WORKING DAY <img src="/resources/photo/work_list2.png" alt="Test">
                 # Test change 'date' and 'super_number' <img src="/resources/photo/work_list3.png" alt="Test">
+                                                              <p class="lead">Tank You for attention!</p>
                            </main>
